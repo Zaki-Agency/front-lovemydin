@@ -1,0 +1,20 @@
+.sidebar-coran {
+  height: 80vh; /* Full-height: remove this if you want "auto" height */
+  width: 15vw; /* Set the width of the sidebar */
+  z-index: 1; /* Stay on top */
+  background-color: rgb(55, 172, 158); /* Black */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  margin-top: 40;
+  color: white;
+  margin-left: 50;
+}
+
+.liste-coran-item {
+  padding: 10px;
+}
+
+.sidebar-coran-audio {
+  width: 15vw;
+  height: 80vh;
+  background-color: rgb(55, 172, 158);
+}

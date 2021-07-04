@@ -1,0 +1,22 @@
+.Library-Wrapper {
+    display : flex;
+    justify-content: center;
+    gap : 5rem;
+}
+
+.Library-element {
+    display : flex;
+    flex-direction : column;
+    justify-content: center;
+    text-align: center;
+    transition: transform 250ms;
+}
+
+.Library-element:hover {
+    /* transform: translateY(-10px); */
+    animation: pulse;
+    animation-duration: 3s;
+
+
+
+}

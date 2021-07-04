@@ -1,0 +1,63 @@
+.form-item {
+  margin: 5px;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+}
+
+.form-input {
+
+}
+
+.form-group {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.label {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 50;
+  width : 500px;
+}
+
+.container-profil {
+  background-color: rgb(255, 255, 255);
+}
+
+.p-sidebar {
+  background-color: rgb(255, 255, 255);
+}
+
+.p-row {
+  background-color: mediumseagreen;
+}
+
+.widget-box-p1 {
+  background-color: rgb(251, 251, 251);
+  border-style: thin;
+  border-width: 0.3px;
+  border-radius: 20px;
+  margin: 15px;
+  max-width: 600px;
+}
+
+.mef-profil-item:hoover {
+  background: linear-gradient(90.27deg, #36ab9d 0%, #87e1cf 100.59%);
+}
+.list-group-mine .list-group-item {
+  background-color: rgb(251, 251, 251);
+  border-left-color: #fff;
+  border-right-color: #fff;
+}
+
+.list-group-mine .list-group-item:hover {
+  background: linear-gradient(90.27deg, #36ab9d 0%, #87e1cf 100.59%);
+  color: white;
+}
+
+.section-title {
+  color : rgb(55, 172, 158);
+}
