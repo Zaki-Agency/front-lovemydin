@@ -1,0 +1,14 @@
+.letter-cards {
+  color: rgb(55, 172, 158);
+  font-size: 3rem;
+  font-family: "Arabic";
+  padding : 1rem;
+  margin : 1rem;
+  border : 1px solid green;
+  font-weight: 500;
+}
+.letters-wrapper {
+display : flex;
+flex-wrap: wrap;
+align-items : center;
+}
